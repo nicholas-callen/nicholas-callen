@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nicholas-callen
 - 👀 I have professional experience working as a data scientist and a background in web and software development, data analysis, and game creation.
-- 🌱 I’m currently learning Automata Theory and Machine Learning as well as building projects in C++ and Python.
-- 💞️ My personal website:
+- 🌱 I’m currently learning Automata Theory and Machine Learning as well as building projects in C++, Javascript, and Python.
 - 📫 nicholascallen@ucla.edu | (909) 217-0818
 
 <!---
